@@ -5,3 +5,7 @@ __pycache__/
 *.ipynb_checkpoints/
 Project5/checkpoints/1.ckpt.index
 Project5/checkpoints/1.ckpt.meta
+Project5/checkpoints/1.ckpt.index
+Project5/checkpoints/1.ckpt.meta
+Project5/checkpoints/1.ckpt.data-00000-of-00001
+Project5/checkpoints/checkpoint
