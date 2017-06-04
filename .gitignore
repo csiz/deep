@@ -3,3 +3,5 @@
 __virtualenv__/
 __pycache__/
 *.ipynb_checkpoints/
+Project5/checkpoints/1.ckpt.index
+Project5/checkpoints/1.ckpt.meta
